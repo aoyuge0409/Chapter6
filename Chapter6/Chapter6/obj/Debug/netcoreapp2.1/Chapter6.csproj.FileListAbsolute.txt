@@ -1,0 +1,11 @@
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\obj\Debug\netcoreapp2.1\Chapter6.csprojAssemblyReference.cache
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\obj\Debug\netcoreapp2.1\Chapter6.csproj.CoreCompileInputs.cache
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\obj\Debug\netcoreapp2.1\Chapter6.AssemblyInfoInputs.cache
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\obj\Debug\netcoreapp2.1\Chapter6.AssemblyInfo.cs
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\bin\Debug\netcoreapp2.1\Chapter6.deps.json
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\bin\Debug\netcoreapp2.1\Chapter6.runtimeconfig.json
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\bin\Debug\netcoreapp2.1\Chapter6.runtimeconfig.dev.json
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\bin\Debug\netcoreapp2.1\Chapter6.dll
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\bin\Debug\netcoreapp2.1\Chapter6.pdb
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\obj\Debug\netcoreapp2.1\Chapter6.dll
+C:\Users\Programming13\source\repos\Chapter6\Chapter6\obj\Debug\netcoreapp2.1\Chapter6.pdb
